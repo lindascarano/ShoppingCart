@@ -36,3 +36,10 @@ npm i react-router-dom
 
 ### Style
 Bootstrap: npm i bootstrap react-bootstrap
+### Credits
+Foto di <a href="https://unsplash.com/it/@rodreis?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Rodrigo dos Reis</a> su <a href="https://unsplash.com/it/foto/frutta-gialla-della-banana-sul-tavolo-di-legno-marrone-DkTuGvgPotA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Foto di <a href="https://unsplash.com/it/@karishea?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Kari Shea</a> su <a href="https://unsplash.com/it/foto/macbook-pro-sopra-il-tavolo-marrone-1SAnrIxw5OY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Foto di <a href="https://unsplash.com/it/@impatrickt?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Patrick Tomasso</a> su <a href="https://unsplash.com/it/foto/lotto-a-libro-aperto-Oaqk7qqNh_c?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Foto di <a href="https://unsplash.com/it/@danielcgold?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Dan Gold</a> su <a href="https://unsplash.com/it/foto/fotografia-a-fuoco-superficiale-di-volkswagen-beetle-arancione-N7RiDzfF2iw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+  
